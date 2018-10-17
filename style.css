@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777;
-  background: url("../images/concrete_seamless.png");
+  background: url("C:/Users/endli/Desktop/Homework/Bootstrap-portfolio/pictures/background.jpg");
 }
 
 * {
@@ -221,11 +221,35 @@ input[type=submit] {
 }
 
 .colm-6{
-  float: left;
   width: 46%;
+  padding-left: 10%;
+  padding-right: 105;
  
 }
 
+.card-body1{
+    float: left;
+    padding-right: 10%;
+}
+
+.card-body2{
+    float: left;
+    padding-left: 10%;
+}
+.card-text{
+  background-color: white;
+  text-decoration-color: black;
+}
+
+#first{
+  float: left;
+  padding-right: 10%;
+}
+
+#second{
+  float: right;
+  padding-left: 10%;
+}
 
 
 
